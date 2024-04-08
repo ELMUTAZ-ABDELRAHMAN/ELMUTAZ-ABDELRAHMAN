@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ELMUTAZ-ABDELRAHMAN
+- 👋 Hi, I’m @ZEXO
 - 👀 I’m interested in App Devolpment
 - 🌱 I’m currently working on a Flutter-based App working with TMDB API
 
