@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ZEXO
-- 👀 I’m interested in App Devolpment
-- 🌱 I’m currently working on a Flutter-based App working with TMDB API
+- 👋 Hi, I’m DIGNA
+- 🌱 I’m interested in App Devolpment
 
 
 <!---
